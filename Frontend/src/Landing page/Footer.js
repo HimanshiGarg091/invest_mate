@@ -9,6 +9,8 @@ const Footer = () => {
         </div>
         <div className='col'>
           <p>Company</p>
+          
+
         </div>
         <div className='col'>
           <p>Support</p>
