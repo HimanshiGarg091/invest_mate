@@ -9,7 +9,7 @@ function Navbar() {
       <div class="container p-2">
         <a class="navbar-brand" href="#">
           <img
-            src="media\buddyLogo.jpeg"
+            src="media\buddyLogoOld.jpeg"
             style={{ width: "25%" }}
             alt="Logo"
           />
