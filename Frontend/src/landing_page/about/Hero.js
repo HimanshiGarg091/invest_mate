@@ -28,8 +28,6 @@ function Hero ()  {
   );
 }
 
-<<<<<<< Updated upstream
+
 export default Hero
-=======
-export default Hero
->>>>>>> Stashed changes
+

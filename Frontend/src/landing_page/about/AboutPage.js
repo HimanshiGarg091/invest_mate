@@ -9,7 +9,7 @@ const AboutPage = () => {
 
     
     <Hero />
-
+    <Team/>
     </>
      
 
