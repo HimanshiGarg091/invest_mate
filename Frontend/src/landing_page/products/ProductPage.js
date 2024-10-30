@@ -12,7 +12,7 @@ const ProductPage = () => {
     <RightSection
     imageURL="media/console.png"
     productName="Console"
-    prodDesc="The central dashboard for your Zerodha account. Gain insights into your trades and investments with in-depth reports and visualisations."
+    prodDesc="The central dashboard for your InvestBuddy account.<br/> Gain insights into your trades and investments with in-depth<br/> reports and visualisations."
     learnMore=""/>
     <LeftSection imageURL="media/coin.png" productName="Coin"productDescription="Buy direct mutual funds online, commission-free, delivered directly to your Demat account. Enjoy the investment experience on your Android and iOS devices."tryDemo=""learnMore=""googlePlay=""appStore=""/>
     <RightSection

@@ -6,7 +6,7 @@ function Footer() {
       <div className="container border-top mt-5">
         <div className="row mt-5">
           <div className="col">
-            <img src="media/buddyLogo.jpeg" style={{ width: "50%" }} />
+            <img src="media/buddyLogoOld.jpeg" style={{ width: "50%" }} />
             <p>
               &copy; 2010 - 2024, Not InvestBuddy Broking Ltd. All rights reserved.
             </p>
